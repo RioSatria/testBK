@@ -10,3 +10,4 @@ collections:
     output: true
 encoding: utf-8
 markdown: kramdown
+baseurl: /testBK

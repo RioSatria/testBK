@@ -1,6 +1,6 @@
 ---
-layout: main
 title: Besut Kode Universitas GitHub activity repositories
+layout: main
 ---
 
 # GitHub activity repositories

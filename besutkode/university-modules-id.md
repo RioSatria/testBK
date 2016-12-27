@@ -1,6 +1,6 @@
 ---
-layout: main
 title: Modul Besut Kode Universitas
+layout: main
 ---
 
 # Modul Besut Kode Universitas

@@ -1,6 +1,6 @@
 ---
-layout: main
 title: Tutorial Project Euler
+layout: main
 ---
 
 # Tutorial Project Euler

@@ -1,6 +1,6 @@
 ---
-layout: main
 title: Besut Kode University modules
+layout: main
 ---
 
 # Besut Kode University modules

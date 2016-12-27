@@ -1,6 +1,6 @@
 ---
-layout: main
 title: Repositori aktivitas GitHub Besut Kode Universitas
+layout: main
 ---
 
 # Repositori aktivitas GitHub
